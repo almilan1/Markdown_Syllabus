@@ -17,8 +17,6 @@ plugins:
 lsi: false
 safe: true
 incremental: false
-plugins:
-  - jekyll-remote-theme
   - jekyll-seo-tag
 
 # Theme-specific settings
