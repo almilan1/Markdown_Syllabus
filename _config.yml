@@ -17,6 +17,14 @@ plugins:
 lsi: false
 safe: true
 incremental: false
+
+# Theme customization
+slate:
+  show_downloads: false
+  google_analytics: false
+  theme: slate
+  sass:
+    style: compressed
   - jekyll-seo-tag
 
 # Theme-specific settings
