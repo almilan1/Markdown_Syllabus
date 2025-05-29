@@ -7,6 +7,13 @@ email: smith@university.edu
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Theme-specific settings
+show_downloads: false
+google_analytics:
+github:
+  is_project_page: false
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
