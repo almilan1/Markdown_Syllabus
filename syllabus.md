@@ -1,3 +1,9 @@
+---
+layout: page
+title: Introduction to Computer Science
+theme: minima
+---
+
 # Introduction to Computer Science
 **Term:** Fall 2025  
 **Instructor:** Dr. Smith  
