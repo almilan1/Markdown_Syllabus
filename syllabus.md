@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Introduction to Computer Science
+description: Fall 2025 Course Syllabus
 ---
 
 # Introduction to Computer Science
