@@ -1,9 +1,3 @@
----
-layout: default
-title: Introduction to Computer Science
-description: Fall 2025 Course Syllabus
----
-
 # Introduction to Computer Science
 
 ## Table of Contents
@@ -61,6 +55,7 @@ This introductory course covers fundamental concepts of computer science, includ
 
 ---
 ## Course Objectives
+{: #course-objectives}
 By the end of this course, students will be able to:
 1. Write and debug basic Python programs
 2. Understand fundamental programming concepts and data structures
@@ -70,17 +65,20 @@ By the end of this course, students will be able to:
 
 ---
 ## Grading
+{: #grading}
 | Component | Percentage |
 |-----------|------------|
 | Programming Assignments (5) | 40% |
 | Midterm Exam | 25% |
 | Final Project | 25% |
 | Class Participation | 10% |
+{: .grade-table}
 
 ---
 ## Course Schedule
 
 ### Week 1-2: Introduction to Programming
+{: .week-header}
 - Python basics
 - Variables and data types
 - Control structures
