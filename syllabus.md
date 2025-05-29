@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Introduction to Computer Science
-theme: minima
 ---
 
 # Introduction to Computer Science
