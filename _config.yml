@@ -1,18 +1,17 @@
-title: Course Syllabus
-description: Introduction to Computer Science Syllabus
+title: Introduction to Computer Science
+description: Course Syllabus - Fall 2025
 author: Dr. Smith
 email: smith@university.edu
 
 # Build settings
 remote_theme: pages-themes/slate@v0.2.0
+markdown: kramdown
+highlighter: rouge
 
-# Collection settings
-collections:
-  - sections
-
-# Forty theme settings
-tiles-source: sections
-tiles-count: 6
+# Jekyll settings
+lsi: false
+safe: true
+incremental: false
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
